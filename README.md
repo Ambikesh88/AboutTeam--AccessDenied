@@ -1,1 +1,1 @@
-# AboutTeam--AccessDenied
+# team-access-denied
